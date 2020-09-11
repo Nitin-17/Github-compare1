@@ -1,1 +1,2 @@
-# Github-compare1
+# Github-Profile-Compare
+The github profile compare website
